@@ -1,9 +1,8 @@
 html {
     margin: 0;
-    padding: auto;
+    padding: 0;
 }
 body {
-    width: 1080px;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 13pt;
     background-color: #efefef;
