@@ -3,6 +3,7 @@ html {
     padding: 0;
 }
 body {
+    width: 100%;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 13pt;
     background-color: #efefef;
