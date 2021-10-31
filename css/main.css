@@ -1,43 +1,4 @@
-html {
-    margin: 0;
-    padding: 0;
-}
-body {
-    width: 100%;
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 13pt;
-    background-color: #efefef;
-    padding: 10px;
-    margin: 0;
-}
-.root {
-
-}
-.home {
-    align-content: center;
-}
-
-.copyright {
-    font-size: 8pt;
-    text-align: right;
-    padding-bottom: 10px;
-    color: grey;
-}
-span {
-    display: block;
-    cursor: pointer;
-    background: #96e3f5;
-    color: #fff;
-    font-size: 40px;
-}
-ul li {
-    list-style: none;
-    float: left;
-    display: block;
-    color: #fff;
-    text-transform: uppercase;
-    padding: 16px 13px;
-    margin-left: 0px;
-    background: tomato;
-    cursor: pointer;
+* {
+  margin: 0;
+  padding: 0;
 }
